@@ -14,15 +14,13 @@
 [![license](https://img.shields.io/github/license/pichillilorenzo/video-gif-converter)](/LICENSE)
 [![Donate to this project using Paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.me/LorenzoPichilli)
 
-It use [ffmpeg](https://ffmpeg.org/) and [gifski](https://github.com/ImageOptim/gifski) under the hood. They are both installed automatically as dependencies by this package.
+It uses [ffmpeg](https://ffmpeg.org/) and [gifski](https://github.com/ImageOptim/gifski) under the hood. They are both installed automatically as dependencies by this package.
 
 ## Getting started
 
 To get started with this library, you need to install it and add it to your project.
 
 ### Installation
-
-Minimize JSON is available as an npm package.
 
 ```bash
 # npm

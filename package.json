@@ -1,6 +1,6 @@
 {
   "name": "video-gif-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Video to GIF and viceversa converter using ffmpeg and gifski",
   "author": {
     "name": "Lorenzo Pichilli",
